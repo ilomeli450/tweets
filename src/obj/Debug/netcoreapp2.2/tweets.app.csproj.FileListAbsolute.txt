@@ -1,0 +1,11 @@
+/Users/ivan/Documents/DLs/02-tweets-ilomeli1-master 2/src/bin/Debug/netcoreapp2.2/tweets.app.deps.json
+/Users/ivan/Documents/DLs/02-tweets-ilomeli1-master 2/src/bin/Debug/netcoreapp2.2/tweets.app.runtimeconfig.json
+/Users/ivan/Documents/DLs/02-tweets-ilomeli1-master 2/src/bin/Debug/netcoreapp2.2/tweets.app.runtimeconfig.dev.json
+/Users/ivan/Documents/DLs/02-tweets-ilomeli1-master 2/src/bin/Debug/netcoreapp2.2/tweets.app.dll
+/Users/ivan/Documents/DLs/02-tweets-ilomeli1-master 2/src/bin/Debug/netcoreapp2.2/tweets.app.pdb
+/Users/ivan/Documents/DLs/02-tweets-ilomeli1-master 2/src/obj/Debug/netcoreapp2.2/tweets.app.csprojAssemblyReference.cache
+/Users/ivan/Documents/DLs/02-tweets-ilomeli1-master 2/src/obj/Debug/netcoreapp2.2/tweets.app.csproj.CoreCompileInputs.cache
+/Users/ivan/Documents/DLs/02-tweets-ilomeli1-master 2/src/obj/Debug/netcoreapp2.2/tweets.app.AssemblyInfoInputs.cache
+/Users/ivan/Documents/DLs/02-tweets-ilomeli1-master 2/src/obj/Debug/netcoreapp2.2/tweets.app.AssemblyInfo.cs
+/Users/ivan/Documents/DLs/02-tweets-ilomeli1-master 2/src/obj/Debug/netcoreapp2.2/tweets.app.dll
+/Users/ivan/Documents/DLs/02-tweets-ilomeli1-master 2/src/obj/Debug/netcoreapp2.2/tweets.app.pdb

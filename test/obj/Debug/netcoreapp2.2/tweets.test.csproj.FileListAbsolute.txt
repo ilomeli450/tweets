@@ -1,0 +1,17 @@
+/Users/ivan/Documents/DLs/02-tweets-ilomeli1-master 2/test/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/ivan/Documents/DLs/02-tweets-ilomeli1-master 2/test/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/ivan/Documents/DLs/02-tweets-ilomeli1-master 2/test/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/ivan/Documents/DLs/02-tweets-ilomeli1-master 2/test/bin/Debug/netcoreapp2.2/tweets.test.deps.json
+/Users/ivan/Documents/DLs/02-tweets-ilomeli1-master 2/test/bin/Debug/netcoreapp2.2/tweets.test.runtimeconfig.json
+/Users/ivan/Documents/DLs/02-tweets-ilomeli1-master 2/test/bin/Debug/netcoreapp2.2/tweets.test.runtimeconfig.dev.json
+/Users/ivan/Documents/DLs/02-tweets-ilomeli1-master 2/test/bin/Debug/netcoreapp2.2/tweets.test.dll
+/Users/ivan/Documents/DLs/02-tweets-ilomeli1-master 2/test/bin/Debug/netcoreapp2.2/tweets.test.pdb
+/Users/ivan/Documents/DLs/02-tweets-ilomeli1-master 2/test/bin/Debug/netcoreapp2.2/tweets.app.dll
+/Users/ivan/Documents/DLs/02-tweets-ilomeli1-master 2/test/bin/Debug/netcoreapp2.2/tweets.app.pdb
+/Users/ivan/Documents/DLs/02-tweets-ilomeli1-master 2/test/obj/Debug/netcoreapp2.2/tweets.test.csprojAssemblyReference.cache
+/Users/ivan/Documents/DLs/02-tweets-ilomeli1-master 2/test/obj/Debug/netcoreapp2.2/tweets.test.csproj.CoreCompileInputs.cache
+/Users/ivan/Documents/DLs/02-tweets-ilomeli1-master 2/test/obj/Debug/netcoreapp2.2/tweets.test.AssemblyInfoInputs.cache
+/Users/ivan/Documents/DLs/02-tweets-ilomeli1-master 2/test/obj/Debug/netcoreapp2.2/tweets.test.AssemblyInfo.cs
+/Users/ivan/Documents/DLs/02-tweets-ilomeli1-master 2/test/obj/Debug/netcoreapp2.2/tweets.test.csproj.CopyComplete
+/Users/ivan/Documents/DLs/02-tweets-ilomeli1-master 2/test/obj/Debug/netcoreapp2.2/tweets.test.dll
+/Users/ivan/Documents/DLs/02-tweets-ilomeli1-master 2/test/obj/Debug/netcoreapp2.2/tweets.test.pdb

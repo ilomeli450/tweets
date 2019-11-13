@@ -1,0 +1,80 @@
+
+----------------------------------
+Overall: 86/89
+-----------------------------------
+
+Extremely good work
+Good partition documentation. 
+You missed a few edge-cases (see below for details)
+
+-----------------------------------
+Breakdown
+-----------------------------------
+
+(24 points) Part 1: Extracting data from tweets
+
+    (5 points) Implement Extract.GetTimespan tests
+    (5 points) Implement Extract.GetTimespan
+    (2 points) Document Extract.GetTimespan tests
+    (5 points) Implement Extract.GetMentionedUsers tests
+    (5 points) Implement Extract.GetMentionedUsers
+    (2 points) Document Extract.GetMentionedUsers tests
+
+Perfect
+
+(35/36 points) Part 2: Filtering lists of tweets
+
+    (5 points) Implement Filter.WrittenBy tests
+    (5 points) Implement Filter.WrittenBy
+    (2 points) Document Filter.WrittenBy tests
+    (5 points) Implement Filter.InTimespan tests
+    (5 points) Implement Filter.InTimespan
+    (2 points) Document Filter.InTimespan tests
+    (5 points) Implement Filter.Containing tests
+    (5 points) Implement Filter.Containing
+    (2 points) Document Filter.Containing tests
+
+-1 InTimespan doesn't work if the user passes a timespan where 
+the start == end. 
+
+(22/24 points) Part 3: Inferring a social network
+
+    (5 points) Implement SocialNetwork.GuessFollowGraph tests
+    (5 points) Implement SocialNetwork.GuessFollowGraph
+    (2 points) Document SocialNetwork.GuessFollowGraph tests
+    (5 points) Implement SocialNetwork.Influencers tests
+    (5 points) Implement SocialNetwork.Influencers
+    (2 points) Document SocialNetwork.Influencers tests
+
+-1 Edge cases with case-insensitivity (see below)
+-1 Can't assume usernames in graph/list will be lower case (affects testing)
+
+(10 points) BONUS: Get smarter (tests + implementation) 
+
+(5 points) README
+
+Glad you can now add regular expressions to your coding skillset!
+
+-----------------------------------------------------
+- OUTPUT 
+-----------------------------------------------------
+
+Starting test execution, please wait...
+Failed   TestInTimespan
+Error Message:
+ Assert.AreEqual failed. Expected:<1>. Actual:<0>. expected singleton list
+Stack Trace:
+   at Twitter.FilterTest.TestInTimespan() in /home/alinen/CS71/cs71-devel/assignments/tweet-cs-soln/test/FilterTest.cs:line 198
+
+Failed   TestInfluencers_MentionsAndUsersDiffer
+Error Message:
+ Assert.IsTrue failed. wrong size list:
+$toodles follows: bee  cat  lion
+$bee follows: cat  lion
+$jersey follows: OoYo  LION
+$boodles follows: LION
+Influencers:  LION lion cat OoYo bee
+Stack Trace:
+   at Twitter.SocialNetworkTest.TestInfluencers_MentionsAndUsersDiffer() in /home/alinen/CS71/cs71-devel/assignments/tweet-cs-soln/test/SocialNetworkTest.cs:line 309
+
+
